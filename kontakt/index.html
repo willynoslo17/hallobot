@@ -20,8 +20,8 @@
   <meta name="twitter:title" content="Kontakt – Hallobot">
   <meta name="twitter:description" content="Bestill en gratis samtale om AI-chat på nettsiden din. Telefon +47 912 90 416, Oslo.">
   <meta name="twitter:image" content="https://hallobot.pages.dev/og-image.png">
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../styles.css">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem","item":"https://hallobot.pages.dev/"},{"@type":"ListItem","position":2,"name":"Kontakt","item":"https://hallobot.pages.dev/kontakt/"}]}</script>
 </head>
 <body>
@@ -29,7 +29,22 @@
 <header class="site-header">
   <div class="wrap nav-bar">
     <a class="brand" href="/">Hallo<span>bot</span></a>
-    <details class="nav-details" open>
+    <nav class="nav-desktop" aria-label="Hovedmeny">
+      <ul class="nav-menu">
+      <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
+      <li><a href="/priser/">Priser</a></li>
+      <li><a href="/bransjer/">Bransjer</a></li>
+      <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
+      <li><a href="/kontakt/#om-meg">Om meg</a></li>
+      <li class="lang-switch" aria-label="Språk">
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
+        <span aria-hidden="true">|</span>
+        <a href="/es/" hreflang="es">ES</a>
+      </li>
+      <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
+      </ul>
+    </nav>
+    <details class="nav-mobile">
       <summary>Meny</summary>
       <ul class="nav-menu">
       <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
@@ -38,9 +53,9 @@
       <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
       <li><a href="/kontakt/#om-meg">Om meg</a></li>
       <li class="lang-switch" aria-label="Språk">
-        <a href="/kontakt/" hreflang="nb" aria-current="page">NO</a>
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
         <span aria-hidden="true">|</span>
-        <a href="/es/contacto/" hreflang="es">ES</a>
+        <a href="/es/" hreflang="es">ES</a>
       </li>
       <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
       </ul>
@@ -109,7 +124,7 @@
     <h2 class="section-title">Om meg</h2>
     <div class="about">
       <!-- TODO Willy: solo foto-cv.jpg (camisa blanca) o ninguna foto -->
-      <img class="about-photo" src="../img/willy.webp" width="180" height="180" alt="Placeholder for bilde av Willy Edison Martínez Lozano" loading="lazy">
+      <img class="about-photo" src="/img/willy.webp" width="180" height="180" alt="Placeholder for bilde av Willy Edison Martínez Lozano" loading="lazy">
       <div>
         <p>Jeg heter Willy Edison Martínez Lozano. Hallobot drives gjennom enkeltpersonforetaket MARTINEZ LOZANO INTERNASJONAL HANDEL (org.nr. 935 407 095 MVA), registrert i Oslo.</p>
         <p>Jeg grunnla Wecrops Perú, et byrå for markedsføring og audiovisuell produksjon i Chimbote (2015–2022), og har jobbet med markedsføring siden 2015. Jeg har 7 diplomer fra Toulouse Lautrec (2019–2021). <!-- TODO Willy: títulos exactos de los diplomas. --></p>
@@ -132,6 +147,6 @@
     </ul>
   </div>
 </footer>
-<script src="../form.js" defer></script>
+<script src="/form.js" defer></script>
 </body>
 </html>

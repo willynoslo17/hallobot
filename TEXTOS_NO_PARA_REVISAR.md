@@ -26,7 +26,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - ¿Están abiertos el domingo?
 - Sí, abrimos de 10 a 18 el domingo. ¿Quieres que te pase el enlace para reservar mesa?
 - Har dere glutenfritt brød?
-- Ja, vi har glutenfritt brød hver dag. Si du har andre allergier, kan du spørre – eller legge igjen kontaktinfo så svarer kafeen deg.
+- Ja, vi har glutenfritt brød hver dag. Hvis du har andre allergier, kan du spørre – eller legge igjen kontaktinfo så svarer kafeen deg.
 - Dette gjør chatboten
 - En chat på nettsiden din som svarer kundene når de spør – også utenom åpningstid.
 - Svarer på vanlige spørsmål døgnet rundt
@@ -126,7 +126,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - 7. Hver måned: oppdatering og rapport
 - Oppdatering av innholdet og en kort rapport (antall samtaler, vanlige spørsmål og henvendelser, slik plattformen viser dem).
 - Eksempel på samtale
-- En guionisert demo – ingen ekte AI på denne siden. Bytt språk med fanene.
+- En manusbasert demo – ingen ekte AI på denne siden. Bytt språk med fanene.
 - Velg språk for eksempelet
 - NO
 - ES
@@ -139,7 +139,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Ja, vi har glutenfritt brød og flere kaker merket glutenfritt på menyen.
 - Har dere ledig bord til 8 personer i kveld?
 - Det vet jeg ikke sikkert. Vil du legge igjen e-post eller telefon, så svarer kafeen deg?
-- ja, anna@eksempel.no
+- ja, anna@example.com
 - Takk! Jeg sender kontaktinfoen din til kafeen, så tar de kontakt.
 - Ejemplo con un café inventado – no es un cliente real
 - ¡Hola! Soy un asistente de IA de este café. ¿En qué puedo ayudarte?
@@ -149,7 +149,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Sí, tenemos pan sin gluten y varios pasteles marcados como sin gluten en la carta.
 - ¿Hay mesa libre para 8 personas esta noche?
 - Eso no lo sé con certeza. ¿Quieres dejar un correo o teléfono para que el café te responda?
-- sí, anna@ejemplo.no
+- sí, anna@example.com
 - ¡Gracias! Paso tus datos al café para que te contacten.
 - Example with a fictional café – not a real customer
 - Hi! I’m an AI assistant for this café. How can I help?
@@ -159,7 +159,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Yes, we have gluten-free bread and several cakes marked gluten-free on the menu.
 - Do you have a table for 8 tonight?
 - I’m not sure about that. Would you like to leave an email or phone number so the café can reply?
-- yes, anna@example.no
+- yes, anna@example.com
 - Thanks! I’ll pass your details to the café so they can get in touch.
 - Hva chatboten ikke gjør
 - Tar ikke imot betaling
@@ -281,7 +281,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Bransjer
 - Eksempler på spørsmål chatboten kan svare på – for oppdiktede situasjoner, ikke ekte kunder.
 - Restaurant og kafé
-- Eksempelsørsmål (ikke fra ekte kunder):
+- Eksempelspørsmål (ikke fra ekte kunder):
 - «Hva er åpningstidene i helgen?»
 - «Har dere glutenfrie alternativer på menyen?»
 - «Kan jeg bestille bord?»

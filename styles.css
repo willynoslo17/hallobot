@@ -156,6 +156,11 @@ summary:focus-visible,
   color: var(--accent);
 }
 
+.nav-menu a.btn-primary,
+.nav-menu a.btn-primary:hover {
+  color: #fff;
+}
+
 .lang-switch {
   display: inline-flex;
   gap: 0.25rem;
@@ -782,47 +787,47 @@ textarea {
   color: var(--muted);
 }
 
-/* Mobile nav via details */
+/* Desktop nav always visible; mobile menu starts closed */
+.nav-desktop {
+  display: none;
+}
+
+.nav-mobile {
+  width: 100%;
+}
+
+.nav-mobile > summary {
+  list-style: none;
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--accent);
+  padding: 0.35rem 0;
+}
+
+.nav-mobile > summary::-webkit-details-marker {
+  display: none;
+}
+
 @media (max-width: 820px) {
-  .nav-details {
-    width: 100%;
-  }
-
-  .nav-details > summary {
-    list-style: none;
-    cursor: pointer;
-    font-weight: 700;
-    color: var(--accent);
-    padding: 0.35rem 0;
-  }
-
-  .nav-details > summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .nav-menu {
+  .nav-mobile .nav-menu {
     flex-direction: column;
     align-items: flex-start;
     padding: 0.5rem 0 0.75rem;
     width: 100%;
   }
 
-  .nav-menu .btn {
+  .nav-mobile .nav-menu .btn {
     width: 100%;
   }
 }
 
 @media (min-width: 821px) {
-  .nav-details {
-    display: contents;
+  .nav-desktop {
+    display: block;
   }
 
-  .nav-details > summary {
+  .nav-mobile {
     display: none;
-  }
-
-  .nav-details .nav-menu {
-    display: flex !important;
   }
 }
 

@@ -20,8 +20,8 @@
   <meta name="twitter:title" content="Priser – Hallobot fra 790 kr/mnd eks. mva., ingen bindingstid">
   <meta name="twitter:description" content="Start fra 5 900 kr + 790 kr/mnd eks. mva., ingen bindingstid. Pluss og Nettbutikk for CRM, booking og katalog.">
   <meta name="twitter:image" content="https://hallobot.pages.dev/og-image.png">
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../styles.css">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem","item":"https://hallobot.pages.dev/"},{"@type":"ListItem","position":2,"name":"Priser","item":"https://hallobot.pages.dev/priser/"}]}</script>
 <!-- TODO Willy: elegir la plataforma del chatbot y confirmar su licencia mensual. La licencia sale de la cuota mensual: comprobar que el margen sigue siendo positivo con 790 / 1 290 / 1 790 kr/mnd (incluido el uso de mensajes) antes de publicar precios. -->
@@ -67,7 +67,22 @@
 <header class="site-header">
   <div class="wrap nav-bar">
     <a class="brand" href="/">Hallo<span>bot</span></a>
-    <details class="nav-details" open>
+    <nav class="nav-desktop" aria-label="Hovedmeny">
+      <ul class="nav-menu">
+      <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
+      <li><a href="/priser/">Priser</a></li>
+      <li><a href="/bransjer/">Bransjer</a></li>
+      <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
+      <li><a href="/kontakt/#om-meg">Om meg</a></li>
+      <li class="lang-switch" aria-label="Språk">
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
+        <span aria-hidden="true">|</span>
+        <a href="/es/" hreflang="es">ES</a>
+      </li>
+      <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
+      </ul>
+    </nav>
+    <details class="nav-mobile">
       <summary>Meny</summary>
       <ul class="nav-menu">
       <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
@@ -76,9 +91,9 @@
       <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
       <li><a href="/kontakt/#om-meg">Om meg</a></li>
       <li class="lang-switch" aria-label="Språk">
-        <a href="/priser/" hreflang="nb" aria-current="page">NO</a>
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
         <span aria-hidden="true">|</span>
-        <a href="/es/precios/" hreflang="es">ES</a>
+        <a href="/es/" hreflang="es">ES</a>
       </li>
       <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
       </ul>

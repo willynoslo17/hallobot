@@ -20,8 +20,8 @@
   <meta name="twitter:title" content="Slik fungerer det – Hallobot">
   <meta name="twitter:description" content="Fra gratis samtale til AI-chat på nettsiden din: trening på norsk, spansk og engelsk, godkjenning og månedlig oppfølging.">
   <meta name="twitter:image" content="https://hallobot.pages.dev/og-image.png">
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../styles.css">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem","item":"https://hallobot.pages.dev/"},{"@type":"ListItem","position":2,"name":"Slik fungerer det","item":"https://hallobot.pages.dev/slik-fungerer-det/"}]}</script>
 <script type="application/ld+json">
@@ -44,7 +44,22 @@
 <header class="site-header">
   <div class="wrap nav-bar">
     <a class="brand" href="/">Hallo<span>bot</span></a>
-    <details class="nav-details" open>
+    <nav class="nav-desktop" aria-label="Hovedmeny">
+      <ul class="nav-menu">
+      <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
+      <li><a href="/priser/">Priser</a></li>
+      <li><a href="/bransjer/">Bransjer</a></li>
+      <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
+      <li><a href="/kontakt/#om-meg">Om meg</a></li>
+      <li class="lang-switch" aria-label="Språk">
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
+        <span aria-hidden="true">|</span>
+        <a href="/es/" hreflang="es">ES</a>
+      </li>
+      <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
+      </ul>
+    </nav>
+    <details class="nav-mobile">
       <summary>Meny</summary>
       <ul class="nav-menu">
       <li><a href="/slik-fungerer-det/">Slik fungerer det</a></li>
@@ -53,9 +68,9 @@
       <li><a href="/sikkerhet-og-personvern/">Sikkerhet og personvern</a></li>
       <li><a href="/kontakt/#om-meg">Om meg</a></li>
       <li class="lang-switch" aria-label="Språk">
-        <a href="/slik-fungerer-det/" hreflang="nb" aria-current="page">NO</a>
+        <a href="/" hreflang="nb" aria-current="page">NO</a>
         <span aria-hidden="true">|</span>
-        <a href="/es/como-funciona/" hreflang="es">ES</a>
+        <a href="/es/" hreflang="es">ES</a>
       </li>
       <li><a class="btn btn-primary" href="/kontakt/">Kontakt</a></li>
       </ul>
@@ -85,7 +100,7 @@
   <section><div class="wrap">
     <h2 class="section-title">Eksempel på samtale</h2>
     <!-- TODO Willy: cuando tengas plataforma, se puede añadir un bot real de demostración; antes hay que revisar CSP, privacidad y el coste por mensaje. -->
-    <p class="section-lead">En guionisert demo – ingen ekte AI på denne siden. Bytt språk med fanene.</p>
+    <p class="section-lead">En manusbasert demo – ingen ekte AI på denne siden. Bytt språk med fanene.</p>
     
       <div class="demo-tabs">
         <fieldset>
@@ -109,7 +124,7 @@
                 <p class="bubble bubble-bot">Ja, vi har glutenfritt brød og flere kaker merket glutenfritt på menyen.</p>
                 <p class="bubble bubble-user">Har dere ledig bord til 8 personer i kveld?</p>
                 <p class="bubble bubble-bot">Det vet jeg ikke sikkert. Vil du legge igjen e-post eller telefon, så svarer kafeen deg?</p>
-                <p class="bubble bubble-user">ja, anna@eksempel.no</p>
+                <p class="bubble bubble-user">ja, anna@example.com</p>
                 <p class="bubble bubble-bot">Takk! Jeg sender kontaktinfoen din til kafeen, så tar de kontakt.</p>
               </div>
             </div>
@@ -123,7 +138,7 @@
                 <p class="bubble bubble-bot">Sí, tenemos pan sin gluten y varios pasteles marcados como sin gluten en la carta.</p>
                 <p class="bubble bubble-user">¿Hay mesa libre para 8 personas esta noche?</p>
                 <p class="bubble bubble-bot">Eso no lo sé con certeza. ¿Quieres dejar un correo o teléfono para que el café te responda?</p>
-                <p class="bubble bubble-user">sí, anna@ejemplo.no</p>
+                <p class="bubble bubble-user">sí, anna@example.com</p>
                 <p class="bubble bubble-bot">¡Gracias! Paso tus datos al café para que te contacten.</p>
               </div>
             </div>
@@ -137,7 +152,7 @@
                 <p class="bubble bubble-bot">Yes, we have gluten-free bread and several cakes marked gluten-free on the menu.</p>
                 <p class="bubble bubble-user">Do you have a table for 8 tonight?</p>
                 <p class="bubble bubble-bot">I’m not sure about that. Would you like to leave an email or phone number so the café can reply?</p>
-                <p class="bubble bubble-user">yes, anna@example.no</p>
+                <p class="bubble bubble-user">yes, anna@example.com</p>
                 <p class="bubble bubble-bot">Thanks! I’ll pass your details to the café so they can get in touch.</p>
               </div>
             </div>
