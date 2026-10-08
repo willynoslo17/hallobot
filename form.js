@@ -12,8 +12,8 @@
         ? "¡Gracias! Respondo en un día laborable."
         : "Takk! Jeg svarer innen 1 virkedag.",
       err: es
-        ? 'No se pudo enviar. Escríbeme a <a href="mailto:willynoslo17@gmail.com?subject=Hallobot">willynoslo17@gmail.com</a>.'
-        : 'Kunne ikke sende. Skriv til <a href="mailto:willynoslo17@gmail.com?subject=Hallobot">willynoslo17@gmail.com</a>.',
+        ? 'No se pudo enviar. Escríbeme a <a href="mailto:kontakt@mlinternasjonal.no?subject=Hallobot">kontakt@mlinternasjonal.no</a>.'
+        : 'Kunne ikke sende. Skriv til <a href="mailto:kontakt@mlinternasjonal.no?subject=Hallobot">kontakt@mlinternasjonal.no</a>.',
       sending: es ? "Enviando…" : "Sender…"
     };
   }

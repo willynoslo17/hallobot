@@ -740,15 +740,15 @@ textarea {
 }
 
 .about {
-  display: grid;
-  gap: 1.5rem;
-  align-items: start;
+  max-width: 42rem;
 }
 
-@media (min-width: 700px) {
-  .about {
-    grid-template-columns: 180px 1fr;
-  }
+.about p {
+  margin: 0 0 1rem;
+}
+
+.about p:last-child {
+  margin-bottom: 0;
 }
 
 .about-photo {

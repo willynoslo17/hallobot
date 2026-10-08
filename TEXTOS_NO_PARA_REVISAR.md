@@ -87,7 +87,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Andre tjenester fra ML Digital
 - Rådgivning i internasjonal handel hos Willy Martínez.
 - Rådgivning i internasjonal handel
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -166,7 +166,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Gir ikke medisinske, juridiske eller økonomiske råd
 - Lover ikke ting som ikke står i innholdet ditt
 - Later ikke som den er et menneske
-- Bestill en gratis samtale Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Bestill en gratis samtale Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -258,7 +258,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Ja, det er ingen bindingstid.
 - Hvordan betaler jeg?
 - Du får faktura fra MARTINEZ LOZANO INTERNASJONAL HANDEL.
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -314,7 +314,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Spansktalende bedrifter i Norge
 - Chatboten svarer på spansk til kundene dine som snakker spansk, og på norsk til norske kunder – samme chat på nettsiden din.
 - Bestill en gratis samtale
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -350,7 +350,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Nevn chatboten i din egen personvernerklæring. Jeg leverer en modelltekst du kan tilpasse.
 - Sensitive data
 - Chatboten skal ikke be om sensitive opplysninger (helse, personnummer, betalingskort).
-- Bestill en gratis samtale Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Bestill en gratis samtale Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -389,14 +389,14 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Jeg godtar at opplysningene brukes for å svare på henvendelsen. Les personvernerklæringen .
 - Send
 - +47 912 90 416
-- willynoslo17@gmail.com
+- kontakt@mlinternasjonal.no
 - Norbygata 19, 0187 Oslo, Norge
 - Om meg
-- [alt] Placeholder for bilde av Willy Edison Martínez Lozano Jeg heter Willy Edison Martínez Lozano. Hallobot drives gjennom enkeltpersonforetaket MARTINEZ LOZANO INTERNASJONAL HANDEL (org.nr. 935 407 095 MVA), registrert i Oslo.
+- Jeg heter Willy Edison Martínez Lozano. Hallobot drives gjennom enkeltpersonforetaket MARTINEZ LOZANO INTERNASJONAL HANDEL (org.nr. 935 407 095 MVA), registrert i Oslo.
 - Jeg grunnla Wecrops Perú, et byrå for markedsføring og audiovisuell produksjon i Chimbote (2015–2022), og har jobbet med markedsføring siden 2015. Jeg har 7 diplomer fra Toulouse Lautrec (2019–2021).
 - Jeg jobber på spansk og engelsk, og på norsk med kvalitetssikrede tekster. Derfor snakker Hallobot tre språk.
 - Hallobot er en del av ML Digital. Jeg tilbyr også rådgivning i internasjonal handel .
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -419,7 +419,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Personvernerklæring
 - Denne erklæringen gjelder denne nettsiden (Hallobot). Sist oppdatert: 8. oktober 2026.
 - Behandlingsansvarlig
-- MARTINEZ LOZANO INTERNASJONAL HANDEL (enkeltpersonforetak), org.nr. 935 407 095 MVA, Norbygata 19, 0187 Oslo. E-post: willynoslo17@gmail.com. Telefon: +47 912 90 416.
+- MARTINEZ LOZANO INTERNASJONAL HANDEL (enkeltpersonforetak), org.nr. 935 407 095 MVA, Norbygata 19, 0187 Oslo. E-post: kontakt@mlinternasjonal.no. Telefon: +47 912 90 416.
 - Hvilke data samles inn
 - Via kontaktskjemaet: navn, e-post, og valgfritt bedrift, telefon, nettside, språkvalg, pakkevalg og melding. Innsending forutsetter samtykke.
 - Formål og rettslig grunnlag
@@ -434,7 +434,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - Denne nettsiden bruker ikke sporingscookies eller analyseverktøy. Det finnes ingen ekte chatbot her – demoen er statisk HTML/CSS.
 - Chatboter hos kunder
 - For behandling av data i chatboter jeg setter opp for kunder, se Sikkerhet og personvern .
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Sikkerhet og personvern
 - Personvern
@@ -449,7 +449,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 - 404 – Hallobot Hopp til innhold Hallo bot Siden finnes ikke / Página no encontrada
 - Beklager – denne siden finnes ikke.
 - Lo sentimos – esta página no existe.
-- Hjem Priser Inicio Precios Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hjem Priser Inicio Precios Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Priser
 - Personvern
 - © 2026
@@ -458,13 +458,13 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 ## Meldinger i `form.js` (norsk)
 
 - Takk! Jeg svarer innen 1 virkedag.
-- Kunne ikke sende. Skriv til willynoslo17@gmail.com.
+- Kunne ikke sende. Skriv til kontakt@mlinternasjonal.no.
 - Sender…
 - Skjemafelter: Navn, Bedrift, E-post, Telefon, Nettside, Pakke (Start/Pluss/Nettbutikk/Usikker), Hvilke språk snakker kundene dine? (Norsk/Spansk/Engelsk), Melding, samtykketekst, Send.
 
 ## Footer (alle sider)
 
-- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · willynoslo17@gmail.com
+- Hallobot er en del av ML Digital – MARTINEZ LOZANO INTERNASJONAL HANDEL · Org.nr. 935 407 095 MVA · Norbygata 19, 0187 Oslo · +47 912 90 416 · kontakt@mlinternasjonal.no
 - Lenker: Priser · Sikkerhet og personvern · Personvern · willymartinez.no/consulting · © 2026
 
 ## Navigasjon
