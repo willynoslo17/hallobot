@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hallobot.pages.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/slik-fungerer-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/como-funciona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/slik-fungerer-det/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/como-funciona/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/como-funciona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/slik-fungerer-det/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/priser/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/priser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/precios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/priser/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/precios/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/priser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/precios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/priser/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/bransjer/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/sectores/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/bransjer/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/sectores/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/sectores/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/bransjer/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/sikkerhet-og-personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/seguridad-y-privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/sikkerhet-og-personvern/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/seguridad-y-privacidad/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/seguridad-y-privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/sikkerhet-og-personvern/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/personvern/"/>
+  </url>
+  <url>
+    <loc>https://hallobot.pages.dev/es/privacidad/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.pages.dev/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.pages.dev/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.pages.dev/personvern/"/>
+  </url>
+</urlset>
