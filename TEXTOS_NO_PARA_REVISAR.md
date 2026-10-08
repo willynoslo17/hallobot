@@ -96,6 +96,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 
 
 ## Slik fungerer det (`/slik-fungerer-det/`)
+- Stegene
 
 **Title:** Slik fungerer det – Hallobot
 
@@ -174,6 +175,7 @@ Spanisch/engelske bobler i demoen er også listet der de står på NO-sidene.
 
 
 ## Priser (`/priser/`)
+- Velg pakke
 
 **Title:** Priser – Hallobot fra 790 kr/mnd eks. mva., ingen bindingstid
 
