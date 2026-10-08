@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hallobot.pages.dev/sitemap.xml
+# LLM context: https://hallobot.pages.dev/llms.txt
