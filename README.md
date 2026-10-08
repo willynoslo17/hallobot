@@ -5,6 +5,16 @@ Sitio estático de **Hallobot** (parte de ML Digital): instalación y mantenimie
 URL temporal prevista: `https://hallobot.pages.dev`  
 Dominio `hallobot.no`: aún no comprado.
 
+## Estado
+
+`main` ya está **aprobado**. No hace falta otro PR de contenido.
+
+Pendiente solo de operación:
+
+1. Conectar **Cloudflare Pages** (build vacío, output `/`)
+2. Poner el secret **`KONTAKT_WEBHOOK_URL`**
+3. Cambiar la URL temporal `*.pages.dev` cuando exista el dominio propio (con `scripts/set-base-url.mjs`)
+
 ## Stack
 
 - HTML + CSS a mano (sin framework, sin build)
@@ -51,7 +61,7 @@ npx wrangler pages secret put KONTAKT_WEBHOOK_URL --project-name hallobot
 3. Project name: `hallobot`
 4. Build command: *(vacío)*
 5. Output directory: `/`
-6. Production branch: `main` (se publica al hacer merge del PR)
+6. Production branch: `main` (se publica desde `main`)
 
 Alternativa CLI:
 
