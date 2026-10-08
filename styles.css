@@ -820,6 +820,10 @@ textarea {
   .nav-details > summary {
     display: none;
   }
+
+  .nav-details .nav-menu {
+    display: flex !important;
+  }
 }
 
 .table-scroll {
