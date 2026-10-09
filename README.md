@@ -12,10 +12,10 @@ Cuenta Cloudflare ya usada en otros sitios (NORDIC / ML-TRADE):
 
 `main` ya está **aprobado**. No hace falta otro PR de contenido.
 
-Pendiente solo de operación (bloqueado sin secretos; **no inventar claves**):
+Pendiente solo de operación (bloqueado sin secretos; **no inventar claves**; **no** configurar `KONTAKT_WEBHOOK_URL` desde el agente hasta que Willy pegue la URL):
 
 1. **Cloudflare Pages** — conectar repo `willynoslo17/hallobot`, proyecto `hallobot`, rama `main`, build vacío, output `/`.
-2. **Secret `KONTAKT_WEBHOOK_URL`** — webhook (p. ej. Make) que entregue el lead a `kontakt@mlinternasjonal.no`. Sin él, `POST /api/kontakt` responde `503` y la web muestra el mailto de respaldo.
+2. **Secret `KONTAKT_WEBHOOK_URL`** (después del deploy) — webhook (p. ej. Make) que entregue el lead a `kontakt@mlinternasjonal.no`. Sin él, `POST /api/kontakt` responde `503` y la web muestra el mailto de respaldo.
 3. Cambiar la URL temporal `*.pages.dev` cuando exista el dominio propio (con `scripts/set-base-url.mjs`).
 
 ### Para que un agente termine el deploy por CLI
