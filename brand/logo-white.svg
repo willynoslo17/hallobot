@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="88" viewBox="53 158 330 88">
+  <g>
+    
+  <rect x="65" y="170" width="70" height="50" rx="14" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <circle cx="85" cy="195" r="5" fill="#FFFFFF"/>
+  <circle cx="100" cy="195" r="5" fill="#FFFFFF"/>
+  <circle cx="115" cy="195" r="5" fill="#FFFFFF"/>
+  <path d="M90 220 l-8 15 h16" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+
+    <text x="180" y="212" font-family="Inter" font-size="48" font-weight="600" fill="#FFFFFF" dominant-baseline="middle">Hallobot</text>
+  </g>
+</svg>
