@@ -2,7 +2,7 @@
 
 Sitio estático de **Hallobot** (parte de ML Digital): instalación y mantenimiento de un chatbot con IA en la web de pequeñas empresas en Noruega. Responde en noruego, español e inglés.
 
-URL temporal prevista: `https://hallobot.pages.dev` (aún **no publicada** — el proyecto Pages no existe).  
+URL temporal prevista: `https://hallobot.no` (aún **no publicada** — el proyecto Pages no existe).  
 Dominio `hallobot.no`: aún no comprado.
 
 Cuenta Cloudflare ya usada en otros sitios (NORDIC / ML-TRADE):  
@@ -15,7 +15,7 @@ Cuenta Cloudflare ya usada en otros sitios (NORDIC / ML-TRADE):
 Pendiente solo de operación (bloqueado sin secretos; **no inventar claves**; **no** configurar `KONTAKT_WEBHOOK_URL` desde el agente hasta que Willy pegue la URL):
 
 1. **Cloudflare Pages** — conectar repo `willynoslo17/hallobot`, proyecto `hallobot`, rama `main`, build vacío, output `/`.
-2. **Secret `KONTAKT_WEBHOOK_URL`** (después del deploy) — webhook (p. ej. Make) que entregue el lead a `kontakt@mlinternasjonal.no`. Sin él, `POST /api/kontakt` responde `503` y la web muestra el mailto de respaldo.
+2. **Secret `KONTAKT_WEBHOOK_URL`** (después del deploy) — webhook (p. ej. Make) que entregue el lead a `kontakt@hallobot.no`. Sin él, `POST /api/kontakt` responde `503` y la web muestra el mailto de respaldo.
 3. Cambiar la URL temporal `*.pages.dev` cuando exista el dominio propio (con `scripts/set-base-url.mjs`).
 
 ### Para que un agente termine el deploy por CLI
@@ -29,13 +29,13 @@ npx wrangler pages project create hallobot --production-branch=main
 npx wrangler pages deploy . --project-name hallobot --branch main
 ```
 
-Luego, con la URL real del webhook hacia `kontakt@mlinternasjonal.no` (Make u otro; **no pegar la URL en el repo**):
+Luego, con la URL real del webhook hacia `kontakt@hallobot.no` (Make u otro; **no pegar la URL en el repo**):
 
 ```bash
 printf '%s' 'https://hook.….make.com/…' | npx wrangler pages secret put KONTAKT_WEBHOOK_URL --project-name hallobot
 ```
 
-Comprobar: `POST https://hallobot.pages.dev/api/kontakt` con JSON válido debe devolver `{"ok":true}` (no `not_configured`).
+Comprobar: `POST https://hallobot.no/api/kontakt` con JSON válido debe devolver `{"ok":true}` (no `not_configured`).
 
 ## Stack
 
@@ -70,12 +70,12 @@ Actualiza canonical, og:url, hreflang, sitemap, robots y JSON-LD. Los enlaces in
 
 El frontend hace `POST /api/kontakt`. La Pages Function (`functions/api/kontakt.js`) reenvía el JSON a `KONTAKT_WEBHOOK_URL`.
 
-**Destino esperado del lead:** `kontakt@mlinternasjonal.no` (vía Make u otro webhook — la function **no** envía correo sola; hace `fetch` al webhook).
+**Destino esperado del lead:** `kontakt@hallobot.no` (vía Make u otro webhook — la function **no** envía correo sola; hace `fetch` al webhook).
 
 Si `KONTAKT_WEBHOOK_URL` no está configurada:
 
 - la function responde `503` `{ "ok": false, "error": "not_configured" }`
-- la web muestra mailto de respaldo a `kontakt@mlinternasjonal.no`
+- la web muestra mailto de respaldo a `kontakt@hallobot.no`
 
 Paso exacto (después de crear el proyecto Pages `hallobot`; **no** commits con la URL):
 
@@ -104,7 +104,7 @@ export CLOUDFLARE_ACCOUNT_ID='c1b75fdaf97a19aebccca79bd81beb70'
 npx wrangler pages deploy . --project-name hallobot --branch main
 ```
 
-Si `hallobot.pages.dev` está ocupado, elige otro nombre de proyecto y ejecuta `node scripts/set-base-url.mjs https://<nuevo>.pages.dev`.
+Si `hallobot.no` está ocupado, elige otro nombre de proyecto y ejecuta `node scripts/set-base-url.mjs https://<nuevo>.pages.dev`.
 
 ## Textos noruegos
 

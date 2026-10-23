@@ -2,8 +2,8 @@
 
 > AI-chatbot på norsk, spansk og engelsk for små bedrifter i Norge. Hallobot er en del av ML Digital.
 
-Site: https://hallobot.pages.dev/
-Contact: kontakt@mlinternasjonal.no
+Site: https://hallobot.no/
+Contact: kontakt@hallobot.no
 Phone: +47 912 90 416
 Company: MARTINEZ LOZANO INTERNASJONAL HANDEL (ENK)
 Org.nr.: 935 407 095 MVA
@@ -11,20 +11,20 @@ Address: Norbygata 19, 0187 Oslo, Norge
 
 ## Pages (Norwegian)
 
-- [Hjem](https://hallobot.pages.dev/): Hva Hallobot er og prisoversikt Start
-- [Slik fungerer det](https://hallobot.pages.dev/slik-fungerer-det/): Prosess og manusbasert demosamtale
-- [Priser](https://hallobot.pages.dev/priser/): Start, Pluss og Nettbutikk
-- [Bransjer](https://hallobot.pages.dev/bransjer/): Eksempelspørsmål for ulike bransjer
-- [Sikkerhet og personvern](https://hallobot.pages.dev/sikkerhet-og-personvern/): Hvordan data håndteres i kundechatter
-- [Kontakt](https://hallobot.pages.dev/kontakt/): Bestill gratis samtale
-- [Personvern](https://hallobot.pages.dev/personvern/): Personvernerklæring for denne nettsiden
+- [Hjem](https://hallobot.no/): Hva Hallobot er og prisoversikt Start
+- [Slik fungerer det](https://hallobot.no/slik-fungerer-det/): Prosess og manusbasert demosamtale
+- [Priser](https://hallobot.no/priser/): Start, Pluss og Nettbutikk
+- [Bransjer](https://hallobot.no/bransjer/): Eksempelspørsmål for ulike bransjer
+- [Sikkerhet og personvern](https://hallobot.no/sikkerhet-og-personvern/): Hvordan data håndteres i kundechatter
+- [Kontakt](https://hallobot.no/kontakt/): Bestill gratis samtale
+- [Personvern](https://hallobot.no/personvern/): Personvernerklæring for denne nettsiden
 
 ## Pages (Spanish)
 
-- [Inicio](https://hallobot.pages.dev/es/)
-- [Cómo funciona](https://hallobot.pages.dev/es/como-funciona/)
-- [Precios](https://hallobot.pages.dev/es/precios/)
-- [Sectores](https://hallobot.pages.dev/es/sectores/)
-- [Seguridad y privacidad](https://hallobot.pages.dev/es/seguridad-y-privacidad/)
-- [Contacto](https://hallobot.pages.dev/es/contacto/)
-- [Privacidad](https://hallobot.pages.dev/es/privacidad/)
+- [Inicio](https://hallobot.no/es/)
+- [Cómo funciona](https://hallobot.no/es/como-funciona/)
+- [Precios](https://hallobot.no/es/precios/)
+- [Sectores](https://hallobot.no/es/sectores/)
+- [Seguridad y privacidad](https://hallobot.no/es/seguridad-y-privacidad/)
+- [Contacto](https://hallobot.no/es/contacto/)
+- [Privacidad](https://hallobot.no/es/privacidad/)

@@ -6,7 +6,7 @@
     ok: "Takk! Meldingen din er sendt. Vi tar kontakt så snart som mulig.",
     rate: "For mange forsøk. Vent et minutt og prøv igjen.",
     forbidden: "Vi kunne ikke bekrefte at du er et menneske. Last inn siden på nytt og prøv igjen.",
-    err: "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@mlinternasjonal.no.",
+    err: "Beklager, noe gikk galt. Prøv igjen, eller send oss en e-post på kontakt@hallobot.no.",
     waitTurnstile: "Vent til sikkerhetssjekken er ferdig, og prøv igjen."
   };
 
