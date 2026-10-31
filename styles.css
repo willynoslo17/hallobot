@@ -580,8 +580,9 @@ section {
 }
 
 #tab-nb:checked ~ .tab-labels label[for="tab-nb"],
-#tab-es:checked ~ .tab-labels label[for="tab-es"],
-#tab-en:checked ~ .tab-labels label[for="tab-en"] {
+#tab-en:checked ~ .tab-labels label[for="tab-en"],
+#tab-sv:checked ~ .tab-labels label[for="tab-sv"],
+#tab-pl:checked ~ .tab-labels label[for="tab-pl"] {
   background: var(--accent);
   color: #fff;
   border-color: var(--accent);
@@ -592,8 +593,9 @@ section {
 }
 
 #tab-nb:checked ~ .panels .panel-nb,
-#tab-es:checked ~ .panels .panel-es,
-#tab-en:checked ~ .panels .panel-en {
+#tab-en:checked ~ .panels .panel-en,
+#tab-sv:checked ~ .panels .panel-sv,
+#tab-pl:checked ~ .panels .panel-pl {
   display: block;
 }
 

@@ -1,6 +1,6 @@
 # Hallobot
 
-> AI-chatbot på norsk, spansk og engelsk for små bedrifter i Norge. Hallobot er en del av ML Digital.
+> AI-chatbot som svarer på kundens språk, for små bedrifter i Norge. Hallobot er en del av ML Digital.
 
 Site: https://hallobot.no/
 Contact: kontakt@hallobot.no
@@ -19,12 +19,32 @@ Address: Norbygata 19, 0187 Oslo, Norge
 - [Kontakt](https://hallobot.no/kontakt/): Bestill gratis samtale
 - [Personvern](https://hallobot.no/personvern/): Personvernerklæring for denne nettsiden
 
-## Pages (Spanish)
+## Pages (English)
 
-- [Inicio](https://hallobot.no/es/)
-- [Cómo funciona](https://hallobot.no/es/como-funciona/)
-- [Precios](https://hallobot.no/es/precios/)
-- [Sectores](https://hallobot.no/es/sectores/)
-- [Seguridad y privacidad](https://hallobot.no/es/seguridad-y-privacidad/)
-- [Contacto](https://hallobot.no/es/contacto/)
-- [Privacidad](https://hallobot.no/es/privacidad/)
+- [Home](https://hallobot.no/en/): What Hallobot is and price overview Start
+- [This is how it works](https://hallobot.no/en/slik-fungerer-det/): Process and script-based demo interview
+- [Prices](https://hallobot.no/en/priser/): Start, Plus and Online Shop
+- [Industries](https://hallobot.no/en/bransjer/): Sample questions for various industries
+- [Security and privacy](https://hallobot.no/en/sikkerhet-og-personvern/): How data is handled in customer chats
+- [Contact](https://hallobot.no/en/kontakt/): Book a free call
+- [Privacy](https://hallobot.no/en/personvern/): Privacy statement for this website
+
+## Sidor (svenska)
+
+- [Hem](https://hallobot.no/sv/): Vad Hallobot är och prisöversikt Börja
+- [Så här fungerar det](https://hallobot.no/sv/slik-fungerer-det/): Process- och manusbaserad demointervju
+- [Priser](https://hallobot.no/sv/priser/): Start, Plus och Online Shop
+- [industrier](https://hallobot.no/sv/bransjer/): Exempel på frågor för olika branscher
+- [Säkerhet och integritet](https://hallobot.no/sv/sikkerhet-og-personvern/): Hur data hanteras i kundchattar
+- [Kontakta](https://hallobot.no/sv/kontakt/): Boka ett kostnadsfritt samtal
+- [Privatliv](https://hallobot.no/sv/personvern/): Sekretesspolicy för denna webbplats
+
+## Strony (polski)
+
+- [Dom](https://hallobot.no/pl/): Co to jest Hallobot i przegląd cen Start
+- [Tak to działa](https://hallobot.no/pl/slik-fungerer-det/): Wywiad demonstracyjny oparty na procesie i skrypcie
+- [Ceny](https://hallobot.no/pl/priser/): Start, Plus i Sklep Internetowy
+- [Przemysły](https://hallobot.no/pl/bransjer/): Przykładowe pytania dla różnych branż
+- [Bezpieczeństwo i prywatność](https://hallobot.no/pl/sikkerhet-og-personvern/): Jak przetwarzane są dane na czatach z klientami
+- [Kontakt](https://hallobot.no/pl/kontakt/): Zarezerwuj bezpłatną rozmowę
+- [Prywatność](https://hallobot.no/pl/personvern/): Oświadczenie o ochronie prywatności dla tej witryny
