@@ -1,89 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://hallobot.no/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/es/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/slik-fungerer-det/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/como-funciona/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/es/como-funciona/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/como-funciona/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/priser/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/precios/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/es/precios/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/precios/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
-  </url>
-  <url>
-    <loc>https://hallobot.no/bransjer/</loc>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://hallobot.no/bransjer/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/bransjer/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/sectores/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/bransjer/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/bransjer/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/es/sectores/</loc>
+  <url><loc>https://hallobot.no/en/bransjer/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/bransjer/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/sectores/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/bransjer/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/bransjer/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/sikkerhet-og-personvern/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/seguridad-y-privacidad/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  <url><loc>https://hallobot.no/sv/bransjer/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/bransjer/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/es/seguridad-y-privacidad/</loc>
-    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/seguridad-y-privacidad/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  <url><loc>https://hallobot.no/pl/bransjer/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/bransjer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/bransjer/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/kontakt/</loc>
+  <url><loc>https://hallobot.no/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
+  </url>
+  <url><loc>https://hallobot.no/en/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
+  </url>
+  <url><loc>https://hallobot.no/sv/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/"/>
+  </url>
+  <url><loc>https://hallobot.no/kontakt/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/kontakt/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/kontakt/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/es/contacto/</loc>
+  <url><loc>https://hallobot.no/en/kontakt/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/kontakt/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/kontakt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/kontakt/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/personvern/</loc>
+  <url><loc>https://hallobot.no/sv/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/kontakt/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/kontakt/"/>
+  </url>
+  <url><loc>https://hallobot.no/personvern/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/personvern/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/personvern/"/>
   </url>
-  <url>
-    <loc>https://hallobot.no/es/privacidad/</loc>
+  <url><loc>https://hallobot.no/en/personvern/</loc>
     <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/personvern/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://hallobot.no/es/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/personvern/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/personvern/"/>
   </url>
-<url><loc>https://hallobot.no/vilkar/</loc></url>
+  <url><loc>https://hallobot.no/sv/personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/priser/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/priser/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/priser/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/priser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
+  </url>
+  <url><loc>https://hallobot.no/en/priser/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/priser/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/priser/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/priser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
+  </url>
+  <url><loc>https://hallobot.no/sv/priser/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/priser/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/priser/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/priser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/priser/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/priser/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/priser/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/priser/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/priser/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/priser/"/>
+  </url>
+  <url><loc>https://hallobot.no/sikkerhet-og-personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/en/sikkerhet-og-personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/sv/sikkerhet-og-personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/sikkerhet-og-personvern/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/sikkerhet-og-personvern/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/sikkerhet-og-personvern/"/>
+  </url>
+  <url><loc>https://hallobot.no/slik-fungerer-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
+  </url>
+  <url><loc>https://hallobot.no/en/slik-fungerer-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
+  </url>
+  <url><loc>https://hallobot.no/sv/slik-fungerer-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/slik-fungerer-det/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/slik-fungerer-det/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/slik-fungerer-det/"/>
+  </url>
+  <url><loc>https://hallobot.no/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/vilkar/"/>
+  </url>
+  <url><loc>https://hallobot.no/en/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/vilkar/"/>
+  </url>
+  <url><loc>https://hallobot.no/sv/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/vilkar/"/>
+  </url>
+  <url><loc>https://hallobot.no/pl/vilkar/</loc>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://hallobot.no/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hallobot.no/en/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://hallobot.no/sv/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hallobot.no/pl/vilkar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hallobot.no/vilkar/"/>
+  </url>
 </urlset>
