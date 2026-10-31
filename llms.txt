@@ -1,6 +1,6 @@
 # Hallobot
 
-> AI-chatbot på norsk, spansk og engelsk for små bedrifter i Norge. Hallobot er en del av ML Digital.
+> AI-chatbot som svarer på kundens språk, for små bedrifter i Norge. Hallobot er en del av ML Digital.
 
 Site: https://hallobot.no/
 Contact: kontakt@hallobot.no

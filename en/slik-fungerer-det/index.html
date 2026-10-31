@@ -1,22 +1,21 @@
-<!DOCTYPE html>
-
+html
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <title>How it works - Hallobot</title>
-<meta content="From free calls to AI chat on your website: training in Norwegian, Spanish and English, approval and monthly follow-up." name="description"/>
+<meta content="From free calls to AI chat on your website: training in the customer's language, approval and monthly follow-up." name="description"/>
 <link href="https://hallobot.no/en/slik-fungerer-det/" rel="canonical"/>
 <meta content="website" property="og:type"/>
 <meta content="Hallobot" property="og:site_name"/>
 <meta content="How it works - Hallobot" property="og:title"/>
-<meta content="From free calls to AI chat on your website: training in Norwegian, Spanish and English, approval and monthly follow-up." property="og:description"/>
+<meta content="From free calls to AI chat on your website: training in the customer's language, approval and monthly follow-up." property="og:description"/>
 <meta content="https://hallobot.no/en/slik-fungerer-det/" property="og:url"/>
 <meta content="https://hallobot.no/og-image.png" property="og:image"/>
 <meta content="en_GB" property="og:locale"/>
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="How it works - Hallobot" name="twitter:title"/>
-<meta content="From free calls to AI chat on your website: training in Norwegian, Spanish and English, approval and monthly follow-up." name="twitter:description"/>
+<meta content="From free calls to AI chat on your website: training in the customer's language, approval and monthly follow-up." name="twitter:description"/>
 <meta content="https://hallobot.no/og-image.png" name="twitter:image"/>
 <link href="/brand/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/brand/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/>
@@ -43,7 +42,7 @@
 <script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "AI chatbot in Norwegian, Spanish and English",
+  "name": "AI chatbot that responds in the customer's language",
   "provider": {
     "@type": "Organization",
     "name": "Hallobot",
@@ -83,7 +82,7 @@
       "@type": "HowToStep",
       "position": 4,
       "name": "Training",
-      "text": "I train the chatbot and write answers in Norwegian, Spanish and English."
+      "text": "I train the chatbot and write answers in the languages ​​your customers use."
     },
     {
       "@type": "HowToStep",
@@ -149,7 +148,7 @@
 <li><h3>1. Free call</h3><p>30 minutes, on video or in person in Oslo. I hear about your needs and whether the Hallobot fits.</p></li>
 <li><h3>2. Fixed offer with written scope</h3><p>You will receive the price and what is included in writing - before I start.</p></li>
 <li><h3>3. You send me the content</h3><p>The website, opening hours, prices, frequently asked questions and how you want to be contacted.</p></li>
-<li><h3>4. I train the chatbot</h3><p>I write and adapt the answers in Norwegian, Spanish and English based on the content you have approved.</p></li>
+<li><h3>4. I train the chatbot</h3><p>I write and adapt the answers in the languages ​​your customers use, based on the content you have approved.</p></li>
 <li><h3>5. You test and approve</h3><p>You try out the calls and let us know if anything needs to be changed before launch.</p></li>
 <li><h3>6. The chatbot is added to your website</h3><p>With one line of code. I will help you or your web developer.</p></li>
 <li><h3>7. Every month: update and report</h3><p>Update of the content and a short report (number of calls, FAQs and inquiries, as the platform shows them).</p></li>
@@ -163,54 +162,70 @@
 <fieldset>
 <legend>Select the language for the example</legend>
 <input checked="" id="tab-nb" name="demo-tab" type="radio"/>
-<input id="tab-es" name="demo-tab" type="radio"/>
 <input id="tab-en" name="demo-tab" type="radio"/>
+<input id="tab-sv" name="demo-tab" type="radio"/>
+<input id="tab-pl" name="demo-tab" type="radio"/>
 <div class="tab-labels">
 <label class="label-tab" for="tab-nb">NO</label>
-<label class="label-tab" for="tab-es">ES</label>
 <label class="label-tab" for="tab-en">EN</label>
+<label class="label-tab" for="tab-sv">SV</label>
+<label class="label-tab" for="tab-pl">PL</label>
 </div>
 <div class="panels">
-<div class="tab-panel panel-nb" lang="en">
-<p class="pill">Example with a fictitious cafe - not a real customer</p>
+<div class="tab-panel panel-nb" lang="nb" translate="no">
+<p class="pill">Eksempel med en oppdiktet kafé – ikke en ekte kunde</p>
 <div class="bubbles">
-<p class="bubble bubble-bot">Hello! I am an AI assistant for this cafe. What are you wondering?</p>
-<p class="bubble bubble-user">What are their opening hours?</p>
-<p class="bubble bubble-bot">We are open Monday–Friday 08–17 and Saturday–Sunday 10–16.</p>
-<p class="bubble bubble-user">Do you have gluten-free options?</p>
-<p class="bubble bubble-bot">Yes, we have gluten-free bread and several cakes marked gluten-free on the menu.</p>
-<p class="bubble bubble-user">Do you have a table for 8 people available tonight?</p>
-<p class="bubble bubble-bot">I don't know for sure. Would you like to leave an email or phone number and the cafe will answer you?</p>
-<p class="bubble bubble-user">yes, anna@example.com</p>
-<p class="bubble bubble-bot">Thanks! I'll send your contact info to the cafe and they'll get in touch.</p>
+<p class="bubble bubble-bot">Hei! Jeg er en AI-assistent for denne kafeen. Hva lurer du på?</p>
+<p class="bubble bubble-user">Hva er åpningstidene deres?</p>
+<p class="bubble bubble-bot">Vi har åpent mandag–fredag 08–17 og lørdag–søndag 10–16.</p>
+<p class="bubble bubble-user">Har dere glutenfrie alternativer?</p>
+<p class="bubble bubble-bot">Ja, vi har glutenfritt brød og flere kaker merket glutenfritt på menyen.</p>
+<p class="bubble bubble-user">Har dere ledig bord til 8 personer i kveld?</p>
+<p class="bubble bubble-bot">Det vet jeg ikke sikkert. Vil du legge igjen e-post eller telefon, så svarer kafeen deg?</p>
+<p class="bubble bubble-user">ja, anna@example.com</p>
+<p class="bubble bubble-bot">Takk! Jeg sender kontaktinfoen din til kafeen, så tar de kontakt.</p>
 </div>
 </div>
-<div class="tab-panel panel-es" lang="es">
-<p class="pill">Ejemplo con un café inventado – no es un cliente real</p>
-<div class="bubbles">
-<p class="bubble bubble-bot">¡Hola! Soy un assistant de IA de este café. ¿En qué puedo ayudarte?</p>
-<p class="bubble bubble-user">What is the schedule?</p>
-<p class="bubble bubble-bot">We are open Monday to Friday from 08:00 to 17:00 and Saturday–Sunday from 10:00 to 16:00.</p>
-<p class="bubble bubble-user">¿Tenéis opciones sin gluten?</p>
-<p class="bubble bubble-bot">Sí, tenemos pan sin gluten y varios pasteles marcados como sin gluten en la carta.</p>
-<p class="bubble bubble-user">Are there free tables for 8 people tonight?</p>
-<p class="bubble bubble-bot">Eso no lo sé con cerceta. ¿Quieres dejar un correo o teléfono para que el café te responde?</p>
-<p class="bubble bubble-user">yes, anna@example.com</p>
-<p class="bubble bubble-bot">Thank you! Paso tus datos al café para que te contacten.</p>
-</div>
-</div>
-<div class="tab-panel panel-en" lang="en">
+<div class="tab-panel panel-en" lang="en" translate="no">
 <p class="pill">Example with a fictional café – not a real customer</p>
 <div class="bubbles">
-<p class="bubble bubble-bot">Hi! I'm an AI assistant for this café. How can I help?</p>
+<p class="bubble bubble-bot">Hi! I’m an AI assistant for this café. How can I help?</p>
 <p class="bubble bubble-user">What are your opening hours?</p>
-<p class="bubble bubble-bot">We're open Monday–Friday 08:00–17:00 and Saturday–Sunday 10:00–16:00.</p>
+<p class="bubble bubble-bot">We’re open Monday–Friday 08:00–17:00 and Saturday–Sunday 10:00–16:00.</p>
 <p class="bubble bubble-user">Do you have gluten-free options?</p>
 <p class="bubble bubble-bot">Yes, we have gluten-free bread and several cakes marked gluten-free on the menu.</p>
 <p class="bubble bubble-user">Do you have a table for 8 tonight?</p>
-<p class="bubble bubble-bot">I'm not sure about that. Would you like to leave an email or phone number so the café can reply?</p>
+<p class="bubble bubble-bot">I’m not sure about that. Would you like to leave an email or phone number so the café can reply?</p>
 <p class="bubble bubble-user">yes, anna@example.com</p>
-<p class="bubble bubble-bot">Thanks! I'll pass your details to the café so they can get in touch.</p>
+<p class="bubble bubble-bot">Thanks! I’ll pass your details to the café so they can get in touch.</p>
+</div>
+</div>
+<div class="tab-panel panel-sv" lang="sv" translate="no">
+<p class="pill">Exempel med ett fiktivt kafé – inte en riktig kund</p>
+<div class="bubbles">
+<p class="bubble bubble-bot">Hej! Jag är en AI-assistent för detta café. Vad undrar du?</p>
+<p class="bubble bubble-user">Vad är deras öppettider?</p>
+<p class="bubble bubble-bot">Vi har öppet måndag–fredag ​​08–17 och lördag–söndag 10–16.</p>
+<p class="bubble bubble-user">Har du glutenfria alternativ?</p>
+<p class="bubble bubble-bot">Ja, vi har glutenfritt bröd och flera kakor märkta glutenfria på menyn.</p>
+<p class="bubble bubble-user">Har du ett bord för 8 personer ledigt ikväll?</p>
+<p class="bubble bubble-bot">Jag vet inte säkert. Vill du lämna ett mejl eller telefonnummer så svarar caféet dig?</p>
+<p class="bubble bubble-user">ja, anna@example.com</p>
+<p class="bubble bubble-bot">Tack! Jag skickar dina kontaktuppgifter till caféet så hör de av sig.</p>
+</div>
+</div>
+<div class="tab-panel panel-pl" lang="pl" translate="no">
+<p class="pill">Przykład z fikcyjną kawiarnią - nie prawdziwym klientem</p>
+<div class="bubbles">
+<p class="bubble bubble-bot">Cześć! Jestem asystentem AI w tej kawiarni. Co się zastanawiasz?</p>
+<p class="bubble bubble-user">Jakie są ich godziny otwarcia?</p>
+<p class="bubble bubble-bot">Jesteśmy otwarci od poniedziałku do piątku w godzinach 08–17 oraz w sobotę–niedzielę w godzinach 10–16.</p>
+<p class="bubble bubble-user">Masz opcje bezglutenowe?</p>
+<p class="bubble bubble-bot">Tak, mamy w menu pieczywo bezglutenowe i kilka ciast oznaczonych jako bezglutenowe.</p>
+<p class="bubble bubble-user">Czy macie dziś wolny stolik dla 8 osób?</p>
+<p class="bubble bubble-bot">Nie wiem na pewno. Chcesz zostawić e-mail lub numer telefonu, a kawiarnia Ci odpowie?</p>
+<p class="bubble bubble-user">tak, anna@example.com</p>
+<p class="bubble bubble-bot">Dzięki! Wyślę Twoje dane kontaktowe do kawiarni, a oni się z Tobą skontaktują.</p>
 </div>
 </div>
 </div>
@@ -240,5 +255,5 @@
 </ul>
 </div>
 <p style="text-align:center;font-size:13px"><a href="/en/vilkar/">Terms</a></p></footer>
-<script>(function(){if(localStorage.getItem('ck'))return;var d=document.createElement('div');d.id='ckb';d.style.cssText='position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;background:#111;color:#fff;padding:12px 16px;border-radius:10px;font:14px/1.4 system-ui;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between';d.innerHTML='<span>We only use essential cookies. <a href="/en/personvern/" style="color:#9cf">Privacy</a></span><span><button data-v="ok">OK</button> <button data-v="no">Decline</button></span>';d.onclick=function(e){var v=e.target.getAttribute('data-v');if(v){localStorage.setItem('ck',v);d.remove()}};document.body.appendChild(d)})();</script></body>
+<script>(function(){if(localStorage.getItem('ck'))return;var d=document.createElement('div');d.id='ckb';d.style.cssText='position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;background:#111;color:#fff;padding:12px 16px;border-radius:10px;font:14px/1.4 system-ui;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between';d.innerHTML='<span>Vi bruker kun nødvendige informasjonskapsler (cookies). <a href="/en/personvern/" style="color:#9cf">Privacy</a></span><span><button data-v="ok">OK</button> <button data-v="no">Avvis</button></span>';d.onclick=function(e){var v=e.target.getAttribute('data-v');if(v){localStorage.setItem('ck',v);d.remove()}};document.body.appendChild(d)})();</script></body>
 </html>
