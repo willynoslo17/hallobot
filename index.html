@@ -23,7 +23,7 @@
   <link rel="icon" href="/brand/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/brand/favicon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png">
-<link rel="stylesheet" href="/styles.css?v=2">
+<link rel="stylesheet" href="/styles.css?v=3">
 
 <!-- TODO Willy: elegir la plataforma del chatbot y confirmar su licencia mensual. La licencia sale de la cuota mensual: comprobar que el margen sigue siendo positivo con 790 / 1 290 / 1 790 kr/mnd (incluido el uso de mensajes) antes de publicar precios. -->
 <script type="application/ld+json">
@@ -100,24 +100,34 @@
     <div class="wrap hero-grid">
       <div>
         <p class="lang-pills" aria-hidden="true">NO · ES · EN</p>
-        <h1>En AI-chat som svarer kundene dine – på norsk, spansk og engelsk</h1>
+        <h1>En AI-chat som svarer kundene dine – <span class="hl">på norsk, spansk og engelsk</span></h1>
         <p class="lead">Jeg setter opp, trener og passer på chatboten for deg. 5 900 kr i oppstart og 790 kr/mnd eks. mva. Ingen bindingstid.</p>
         <div class="cta-row">
           <a class="btn btn-primary" href="/slik-fungerer-det/">Se hvordan det fungerer</a>
           <a class="btn btn-ghost" href="/kontakt/?pakke=start">Bestill en gratis samtale</a>
         </div>
       </div>
+      <div class="stage">
+      <canvas class="stage-canvas" aria-hidden="true"></canvas>
+      <span class="float-tag t1" aria-hidden="true">Hei</span><span class="float-tag t2" aria-hidden="true">Hola</span><span class="float-tag t3" aria-hidden="true">Hi</span>
       <aside class="chat-demo" aria-label="Eksempel på samtale">
-        <p class="demo-label">Eksempel</p>
+        <p class="demo-label"><span class="live">Live-demo</span><span class="lang-flag" data-l="es" aria-hidden="true">ES</span></p>
         <div class="bubbles">
           <p class="bubble bubble-user" lang="es">¿Están abiertos el domingo?</p>
           <p class="bubble bubble-bot" lang="es">Sí, abrimos de 10 a 18 el domingo. ¿Quieres que te pase el enlace para reservar mesa?</p>
           <p class="bubble bubble-user" lang="nb">Har dere glutenfritt brød?</p>
           <p class="bubble bubble-bot" lang="nb">Ja, vi har glutenfritt brød hver dag. Hvis du har andre allergier, kan du spørre – eller legge igjen kontaktinfo så svarer kafeen deg.</p>
+          <p class="bubble bubble-user" lang="en">Can someone call me about a group booking?</p>
+          <p class="bubble bubble-bot" lang="en">Of course! Leave your name and phone number here, and I’ll send it straight to the café.</p>
         </div>
+        <button type="button" class="demo-replay" hidden>↻ Spill av igjen</button>
+      
       </aside>
+      </div>
     </div>
   </section>
+
+  <div class="marquee" aria-hidden="true"><div class="marquee-track"><span>Hei!</span><span>¡Hola!</span><span>Hi!</span><span>Åpent på søndag?</span><span>¿Tienen sin gluten?</span><span>Can I book a table?</span><span>Svar døgnet rundt</span><span>En chat · tre språk</span><span>Hei!</span><span>¡Hola!</span><span>Hi!</span><span>Åpent på søndag?</span><span>¿Tienen sin gluten?</span><span>Can I book a table?</span><span>Svar døgnet rundt</span><span>En chat · tre språk</span></div></div>
 
   <section>
     <div class="wrap">
@@ -252,5 +262,6 @@
   </div>
 <p style="text-align:center;font-size:13px"><a href="/vilkar/">Vilkår</a></p></footer>
 
-<script>(function(){if(localStorage.getItem('ck'))return;var d=document.createElement('div');d.id='ckb';d.style.cssText='position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;background:#111;color:#fff;padding:12px 16px;border-radius:10px;font:14px/1.4 system-ui;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between';d.innerHTML='<span>Vi bruker kun nødvendige informasjonskapsler (cookies). / We only use essential cookies. <a href="/personvern/" style="color:#9cf">Personvern</a></span><span><button data-v="ok">OK</button> <button data-v="no">Avvis / Decline</button></span>';d.onclick=function(e){var v=e.target.getAttribute('data-v');if(v){localStorage.setItem('ck',v);d.remove()}};document.body.appendChild(d)})();</script></body>
+<script>(function(){if(localStorage.getItem('ck'))return;var d=document.createElement('div');d.id='ckb';d.style.cssText='position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;background:#111;color:#fff;padding:12px 16px;border-radius:10px;font:14px/1.4 system-ui;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between';d.innerHTML='<span>Vi bruker kun nødvendige informasjonskapsler (cookies). / We only use essential cookies. <a href="/personvern/" style="color:#9cf">Personvern</a></span><span><button data-v="ok">OK</button> <button data-v="no">Avvis / Decline</button></span>';d.onclick=function(e){var v=e.target.getAttribute('data-v');if(v){localStorage.setItem('ck',v);d.remove()}};document.body.appendChild(d)})();</script><script src="/site.js?v=1" defer></script>
+</body>
 </html>
